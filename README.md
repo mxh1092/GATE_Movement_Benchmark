@@ -2,7 +2,7 @@
 
 A benchmark for the GenericMove function is created using a point source emitting back-to-back photons at 511 keV and placed inside a model of the Phillips/ADAC Forte. The source moves from -5 to 5 mm and the detector separation changes from 800 to 400 mm over 0.1 seconds. The time slice used is 0.001 seconds. 
 
-To launch the visualisation run, 'Gate --qt runForteVis.mac'. To start the simulation run 'Gate runForte.mac'.
+To launch the visualisation run, 'Gate --qt runForteVis.mac'. To start the simulation run 'python3 runTest.py'. To analyze the result for benchmarking run 'python3 runAnalysis.py'.
 
 Author: Matthew Herald
 
