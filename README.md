@@ -4,6 +4,9 @@ A benchmark for the GenericMove function is created using a point source emittin
 
 To launch the visualisation run, 'Gate --qt runForteVis.mac'. To start the simulation run 'Gate runForte.mac'.
 
+Author: Matthew Herald
+
+GATE Model Citation:
 Herald, M., Wheldon, T., & Windows-Yule, C. (2021). Monte Carlo model validation of a detector system used for Positron Emission Particle Tracking. Nuclear Instruments and Methods in Physics Research Section A: Accelerators, Spectrometers, Detectors and Associated Equipment, 993, 165073. https://doi.org/10.1016/j.nima.2021.165073.
 
-![Alt text](data/Benchmark.jpg?raw=true)
+![Alt text](data/Benchmark.png?raw=true)
