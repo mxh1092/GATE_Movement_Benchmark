@@ -35,7 +35,7 @@
 /vis/open                           OGL
 /vis/viewer/reset
 #/vis/viewer/set/viewpointThetaPhi   120 30
-/vis/viewer/set/viewpointThetaPhi 0 0
+/vis/viewer/set/viewpointThetaPhi 30 30
 #/vis/viewer/set/viewpointThetaPhi   270 0
 /vis/viewer/zoom                    1.1
 /vis/viewer/set/style surface
