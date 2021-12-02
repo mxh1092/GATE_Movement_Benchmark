@@ -14,4 +14,4 @@ Author: Matthew Herald
 
 Herald, M., Wheldon, T., & Windows-Yule, C. (2021). Monte Carlo model validation of a detector system used for Positron Emission Particle Tracking. Nuclear Instruments and Methods in Physics Research Section A: Accelerators, Spectrometers, Detectors and Associated Equipment, 993, 165073. https://doi.org/10.1016/j.nima.2021.165073.
 
-![Alt text](data/Benchmark.jpg?raw=true)
+![Alt text](data/Benchmark.png?raw=true)
